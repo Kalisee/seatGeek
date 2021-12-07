@@ -1,4 +1,4 @@
-# SeatGeek API Automation for Buyers
+# SeatGeek API Automation
 
 -Filter for Dates: (SeatGeek feature is having issues in GUI)
 
